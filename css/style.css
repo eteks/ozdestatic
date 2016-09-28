@@ -65,7 +65,7 @@ body { font-size:14px; font-family: Helvetica, Arial, sans-serif; }
 /*.bg_img {background:url(../images/header-bg.png) no-repeat center top #fff;padding-top:0;}*/
 .oza-header {background:url(../images/header-bg.png) no-repeat center top #fff;padding-top:0;height: 453px;}
  @media (min-width: 768px) {
-     .oza-header {background:url(../images/header-bg.png) no-repeat center top #fff;padding-top:0;height: 800px;} 
+     .oza-header {background:url(../images/header-bg.png) no-repeat center top #fff;padding-top:0;height: 684px;} 
     }
 /*.animation_cloud {background:url(../images/background.png) no-repeat center ; position: relative !important;}*/
 
@@ -502,7 +502,7 @@ body { font-size:14px; font-family: Helvetica, Arial, sans-serif; }
 .oza-text-success{ color:#4cae4c !important; padding:10px 20px; }
 .oza-text-success:hover{color:#000 !important;text-decoration:none; }
 
-.oza-modal-contact-content .form-inline .form-control{width:100%;background:transparent; border:none;border-bottom:1px solid #ccc; box-shadow: none; border-radius: 0;  padding-left: 0; margin-bottom: 15px;}
+.oza-modal-contact-content .form-inline .form-control{width:100%;background:transparent; border:none;border-bottom:1px solid #abbd0a; box-shadow: none; border-radius: 0;  padding-left: 0; margin-bottom: 15px;}
 
 html, body {
   margin: 0;

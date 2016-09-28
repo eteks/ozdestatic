@@ -1,6 +1,6 @@
 .da-slider{
 	width: 100%;
-	min-width: 520px;
+	min-width: 820px;
 	height: 543px;
 	position: relative;
 	margin: 0px auto;
@@ -701,7 +701,7 @@
    /* position: absolute;*/
     width: 703px;
     position: absolute;
-    right: 26%;
+    right: 15%;
     bottom: 0px;
 }
 
@@ -750,7 +750,7 @@
 .image_three_boat img {
     height: 240px;
     position: absolute;
-    top: 272px;
+    top: 347px;
     width: 600px;
     z-index: 10;
 }
@@ -768,7 +768,7 @@
     height: 325px;
 }
 .header-slide-content2 {
-    left: 223px;
+    left: 229px;
     position: relative;
     /*text-align: justify;*/
     top: 50px;
@@ -786,14 +786,15 @@
   font-family: Miriam;
   font-size: 52px;
   color: #0a2a48;
-  line-height: 57px;
+  line-height: 0px;
+  margin-left: -38px;
 }
 .header-holiday1 {
    color: #155693;
    font-family: aharoni;
    font-size: 59px;
    font-weight: bold;
-    margin: -11px 1px -19px;
+    margin: -11px -44px -19px;
 }
 .header-paragraph1 {
    font-family: helvetica;
@@ -807,7 +808,7 @@
     bottom: 0;
     font-size: 20px;
     height: 46px;
-    position: absolute;
+    position: relative;
     width: 130px;
     background-image: linear-gradient(90deg, #1d8fc5, #023f92);
     z-index:10;

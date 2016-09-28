@@ -797,13 +797,16 @@
     font-size: 60px;
     font-weight: bold;
     line-height: 57px;
+    margin-left: -41px;
+    margin-top: -49px;
+
 }
 .header-holiday1 {
    color: #1b6097;
     font-family: Myriad Pro;
     font-size: 33px;
     font-weight: bold;
-    margin: 8px -6px -10px;
+    margin: 8px -40px -10px;
 }
 .header-paragraph1 {
    font-family: helvetica;
