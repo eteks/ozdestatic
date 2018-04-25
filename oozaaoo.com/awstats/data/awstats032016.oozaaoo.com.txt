@@ -1,0 +1,783 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201603 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1915                
+POS_TIME 2597                
+POS_VISITOR 17910               
+POS_DAY 24572               
+POS_DOMAIN 3504                
+POS_LOGIN 4097                
+POS_ROBOT 4252                
+POS_WORMS 4692                
+POS_EMAILSENDER 4823                
+POS_EMAILRECEIVER 4966                
+POS_SESSION 25001               
+POS_SIDER 25211               
+POS_FILETYPES 5101                
+POS_OS 5410                
+POS_BROWSER 5533                
+POS_SCREENSIZE 5925                
+POS_UNKNOWNREFERER 5999                
+POS_UNKNOWNREFERERBROWSER 6874                
+POS_ORIGIN 7315                
+POS_SEREFERRALS 7458                
+POS_PAGEREFS 7615                
+POS_SEARCHWORDS 8788                
+POS_KEYWORDS 8940                
+POS_MISC 2261                
+POS_ERRORS 8999                
+POS_CLUSTER 3953                
+POS_SIDER_404 9138                
+POS_PLUGIN_geoip_city_maxmind 16322               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160401003735 394 86114 15445003900969
+FirstTime 20160319101808
+LastTime 20160331224409
+LastUpdate 20160401075347 394 0 393 0 0
+TotalVisits 193                 
+TotalUnique 153                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 163                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 40 295 25737327 48 63 3233243
+1 126 1021 213817283 31 66 9534487
+2 95 935 165968683 49 143 18829517
+3 123 1163 203622484 49 105 8766114
+4 54 458 111832018 39 116 11246096
+5 29 324 61148803 48 57 1867419
+6 60 540 101059173 61 83 2621783
+7 38 279 56976634 41 59 4158584
+8 121 1039 200158297 61 125 11173234
+9 44 385 82887970 45 72 3840915
+10 32 224 21603636 78 79 1518549
+11 76 681 120976565 61 93 5098106
+12 54 790 148123952 39 80 5420520
+13 15 117 28750873 58 71 3954680
+14 4 16 3342420 35 41 1886881
+15 11 34 4341595 45 58 2193676
+16 5 5 351505 46 58 2489880
+17 10 98 24452288 157 200 4463325
+18 2 2 140602 52 87 4164921
+19 14 102 24620718 38 52 3522316
+20 3 3 210903 47 70 2982079
+21 1 13 651636 37 42 3733456
+22 13 113 27855978 55 66 3370187
+23 20 178 38463589 53 75 3452238
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 25
+in 775 7422 1354642970
+us 126 748 181647801
+unknown 20 226 48083035
+br 18 251 52888076
+cn 10 18 985501
+de 6 6 421806
+pt 5 49 12226144
+pe 5 49 12226144
+nl 4 4 249552
+ru 3 3 210903
+ua 1 1 70301
+tr 1 1 70301
+jp 1 1 4101
+no 1 1 70301
+fr 2 2 140602
+ch 1 1 70301
+dk 1 1 70301
+eu 2 2 140602
+it 1 20 2185447
+kw 0 1 179450
+cz 1 1 70301
+se 3 3 210903
+sk 0 1 19186
+pr 2 2 140602
+lu 1 1 70301
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+baiduspider 615 20123158 20160331235339 0
+googlebot 392 38427550 20160331134435 0
+bot[+:,\.\;\/\\-] 51 3235252 20160331213924 0
+mj12bot 50 3117877 20160331215643 0
+no_user_agent 27 1032500 20160331115937 0
+yandex 13 913913 20160325003833 0
+ia_archiver 1 70301 20160321181156 0
+robot 1 70301 20160326081558 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+eot 5 138891 0 0
+css 1034 23012723 0 0
+png 4577 1451053732 0 0
+ttf 128 14067144 0 0
+woff 62 2298624 0 0
+woff2 257 3763036 0 0
+net 2 108950 0 0
+php 266 17587974 0 0
+html 270 17833624 0 0
+js 1259 38944576 0 0
+jpg 925 98269061 0 0
+jpeg 28 16224 0 0
+gif 2 373 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 8
+winlong 1
+winxp 280
+unix 1
+winnt 5851
+linux 2120
+macosx 273
+win2003 104
+Unknown 185
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 25
+firefox28.0 1
+msie6.0 2
+firefox44.0 635
+firefox29.0 3
+curl 2
+firefox46.0 278
+firefox45.0 319
+firefox31.0 1
+firefox2.0.0.13 2
+msie8.0 9
+firefox6.0.2 1
+mozilla 383
+firefox39.0 109
+netscape5.0 9
+firefox43.0 4
+firefox3.6.28 2
+msie10.0 6
+firefox3.6.3 1
+firefox9.0.1 2
+msie9.0 6
+firefox36.0 572
+Unknown 116
+firefox27.0 1
+firefox11.0 1
+safari 6350
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_4.4.2;_en-US;_Micromax_D303)_U2/1.0.0_UCBrowser/10.7.0.733_U2/1.0.0_Mobile 20160322054550
+Mozilla/5.0_(en-us)_AppleWebKit/537.36_(KHTML,_like_Gecko;_Google_PP_Default)_Chrome/27.0.1453_Safari/537.36 20160328083943
+StatsInfo 20160331222529
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20160328084023
+Go_http_package 20160325145657
+masscan/1.0_(https://github.com/robertdavidgraham/masscan) 20160331224409
+Mozilla/5.0_(compatible;_Google-Structured-Data-Testing-Tool__http://developers.google.com/structured-data/testing-tool/) 20160328092139
+Mozilla/5.0 20160323052155
+Mozilla/5.0_Project_25499_(project25499.com) 20160326003054
+Mozilla/5.0_(compatible;_Nmap_Scripting_Engine;_http://nmap.org/book/nse.html) 20160319153256
+curl/7.38.0 20160330011823
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+UCWEB/2.0_(MIDP-2.0;_U;_Adr_4.4.2;_en-US;_Micromax_D303)_U2/1.0.0_UCBrowser/10.7.0.733_U2/1.0.0_Mobile 20160322054550
+StatsInfo 20160331222529
+Go_http_package 20160325145657
+UCWEB/2.0_(Linux;_U;_Adr_4.2.2;_en-US;_Android2.x)_U2/1.0.0_UCBrowser/9.1.0.297_U2/1.0.0_Mobile 20160326090815
+masscan/1.0_(https://github.com/robertdavidgraham/masscan) 20160331224409
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 222 260
+From1 0 0
+From2 27 29
+From3 43 53
+From4 698 8473
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 27 29
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 16
+http://top1-seo-service.com/try.php 15 15
+http://burger-imperia.com 5 5
+http://www.justdial.com/Chennai/Oozaaoo-Leisures-Pvt-Ltd-%3Cnear%3E-Near-Indian-Bank-Adyar/044PXX44-XX44-150409160246-G4E8_BZDET 4 4
+http://www.justdial.com/Pondicherry/Oozaaoo-Leisures-Private-Limited-%3Cnear%3E-Pillaitottam/0413PX413-X413-150409164028-E8A2_BZDET 3 3
+http://googleweblight.com 3 5
+http://www.justdial.com/Pondicherry/Oozaaoo-Leisures-Pvt-Ltd-%3Cnear%3E-Kosapalayam/0413PX413-X413-150812123703-Y6Z5_BZDET 2 2
+http://t.justdial.com/Pondicherry/Car-On-Hire-For-Self-Driven/ct-10076628 2 2
+http://www.justdial.com/Chennai/OOZAAOO-LEISURES-PVT-LTD/044PXX44-XX44-150409160246-G4E8_BZDET 2 2
+http://buttons-for-website.com 1 1
+http://pizza-imperia.com 1 1
+http://pizza-tycoon.com 1 1
+http://hvd-store.com 1 1
+http://wap.oozaaoo.com 0 8
+http://magnet-to-torrent.com 1 1
+http://hundejo.com 1 1
+http://www.justdial.com/Pondicherry/Oozaaoo-Leisures-Private-Limited-%3Cnear%3E-Iyyanar-Nagar-Kosapalayam/0413PX413-X413-150812134707-W2T3_BZDET 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+401 12 5964
+302 6 564
+206 235 56300001
+400 3 678
+404 555 224147
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 184
+http://71.18.41.19:80/administrator/PMA/ 1 -
+http://71.18.41.19:80/pma2012/ 1 -
+/wordpress/ 1 -
+/static/css/font-awesome.css 1 http://www.oozaaoo.com/mybooking/
+http://71.18.41.19:80/db/ 1 -
+/contact 1 -
+http://71.18.41.19:80/php-my-admin/ 1 -
+http://71.18.41.19:80/pma2013/ 1 -
+http://71.18.41.19:80/dbadmin/ 1 -
+http://71.18.41.19:80/sql/phpMyAdmin/ 1 -
+//MyAdmin/scripts/setup.php 1 -
+/v2/login 7 -
+http://71.18.41.19:80/pma/ 1 -
+/static/css/seat.css 1 http://www.oozaaoo.com/mybooking/
+http://71.18.41.19:80/sql/websql/ 1 -
+/css/demo.css 4 http://www.oozaaoo.com/
+/static/v2/css/bootstrap-datepicker.css 4 -
+http://71.18.41.19:80/admin/ 1 -
+http://71.18.41.19:80/phpMyAdmin4/ 1 -
+/css/images/image-slider/about_us1.png 1 http://www.oozaaoo.com/
+/v2/login/ 1 -
+http://71.18.41.19:80/sql/webdb/ 1 -
+/administrator/manifests/libraries/joomla.xml 2 -
+http://71.18.41.19:80/db/phpMyAdmin-3/ 1 -
+http://71.18.41.19:80/phppma/ 1 -
+/rom-0 3 -
+http://71.18.41.19:80/phpmyadmin1/ 1 -
+http://71.18.41.19:80/admin/pMA/ 1 -
+/static/v2/js/bootstrap-timepicker.js 2 http://www.oozaaoo.com/
+http://71.18.41.19:80/sql/myadmin/ 1 -
+http://71.18.41.19:80/sql/phpmanager/ 1 -
+http://71.18.41.19:80/db/phpMyAdmin3/ 1 -
+http://testp4.pospr.waw.pl/testproxy.php 2 -
+/Domestic-Flight-booking-terms/ 8 -
+/static/v2/js/home.js 2 http://oozaaoo.com/
+http://71.18.41.19:80/myadmin/ 1 -
+http://71.18.41.19:80/1phpmyadmin/ 1 -
+http://71.18.41.19:80/mysql/pMA/ 1 -
+/v2/register 5 -
+/aboutus/ 14 -
+http://71.18.41.19:80/phpMyadmin/ 1 -
+http://71.18.41.19:80/admin/sysadmin/ 1 -
+http://71.18.41.19:80/program/ 1 -
+http://71.18.41.19:80/administrator/phpmyadmin/ 1 -
+http://71.18.41.19:80/sql/php-myadmin/ 1 -
+http://71.18.41.19:80/mysql/admin/ 1 -
+http://71.18.41.19:80/sql/phpMyAdmin3/ 1 -
+/v2/privacy/ 8 -
+http://71.18.41.19:80/db/websql/ 1 -
+http://71.18.41.19:80/PMA/ 1 -
+/static/js/gridrotator.js 1 http://www.oozaaoo.com/mybooking/
+/css/jquery-ui.css 2 http://www.oozaaoo.com/
+http://71.18.41.19:80/sql/phpmy-admin/ 1 -
+http://71.18.41.19:80/phpMyAdmin-3/ 1 -
+http://71.18.41.19:80/4phpmyadmin/ 1 -
+http://71.18.41.19:80/sql/phpMyAdmin4/ 1 -
+http://71.18.41.19:80/sql/sqlweb/ 1 -
+http://71.18.41.19:80/phpMyAdmin/ 1 -
+http://71.18.41.19:80/db/phpMyAdmin/ 1 -
+/static/js/ionrangeslider.js 1 http://www.oozaaoo.com/mybooking/
+/contactus/ 14 -
+http://testp3.pospr.waw.pl/testproxy.php 1 -
+/index.html 14 -
+http://71.18.41.19:80/admin/phpmyadmin/ 1 -
+/static/v2/css/seat.css 4 -
+/static/v2/css/jquery-ui-1.10.2.custom.min.css 2 http://www.oozaaoo.com/v2/terms_and_condition/
+/css/images/arrows.png 1 http://www.oozaaoo.com/
+http://71.18.41.19:80/administrator/admin/ 1 -
+http://71.18.41.19:80/db/webdb/ 1 -
+http://71.18.41.19:80/phpmyadmin/ 1 -
+http://71.18.41.19:80/pma2014/ 1 -
+http://71.18.41.19:80/db/phpmyadmin/ 1 -
+http://71.18.41.19:80/shopdb/ 1 -
+http://71.18.41.19:80/sql/phpMyAdmin2/ 1 -
+/privacy/ 4 -
+/International-Flight-booking-terms/ 4 -
+http://71.18.41.19:80/mysqladmin/ 1 -
+/administrator/index.php 1 -
+/css/style-t.css 4 http://www.oozaaoo.com/
+http://71.18.41.19:80/phpMyAdmin3/ 1 -
+/css/style-m.css 3 http://www.oozaaoo.com/
+http://71.18.41.19:80/administrator/db/ 1 -
+/readme.html 6 -
+http://71.18.41.19:80/sql/webadmin/ 1 -
+http://71.18.41.19:80/db/myadmin/ 1 -
+http://71.18.41.19:80/phpmyadmin4/ 1 -
+http://71.18.41.19:80/administrator/web/ 1 -
+http://71.18.41.19:80/sql/phpmyadmin2/ 1 -
+http://71.18.41.19:80/phpMyAdmin-4/ 1 -
+/static/v2/js/filter.js 2 http://www.oozaaoo.com/
+http://71.18.41.19:80/PMA2014/ 1 -
+http://71.18.41.19:80/db/dbadmin/ 1 -
+http://71.18.41.19:80/sql/sqladmin/ 1 -
+/robots.txt 118 -
+/static/v2/css/ionicons.min.css 4 -
+/static/v2/js/bootstrap.min.js 2 http://www.oozaaoo.com/
+http://71.18.41.19:80/mysql/sqlmanager/ 1 -
+http://71.18.41.19:80/mysql/web/ 1 -
+http://71.18.41.19:80/administrator/phpMyAdmin/ 1 -
+/static/v2/css/tipsy.css 4 -
+/static/js/custom.js 1 http://www.oozaaoo.com/mybooking/
+http://71.18.41.19:80/admin/web/ 1 -
+http://71.18.41.19:80/2phpmyadmin/ 1 -
+http://www.baidu.com/robots.txt 1 -
+http://71.18.41.19:80/mysql-admin/ 1 -
+/browserconfig.xml 1 -
+http://71.18.41.19:80/MyAdmin/ 1 -
+http://71.18.41.19:80/mysql/mysqlmanager/ 1 -
+http://71.18.41.19:80/myadminphp/ 1 -
+http://71.18.41.19:80/pma2015/ 1 -
+http://71.18.41.19:80/phpmyadmin3/ 1 -
+/static/v2/css/materialdesignicons.css 4 -
+http://71.18.41.19:80/sql/sql-admin/ 1 -
+/static/v2/js/jquery-ui.min.js 1 http://oozaaoo.com/
+/static/js/nicescroll.js 1 http://www.oozaaoo.com/mybooking/
+/static/v2/js/bootstrap-slider.js 2 http://oozaaoo.com/
+http://71.18.41.19:80/mysql/pma/ 1 -
+/static/v2/css/style.css 4 -
+/static/css/icomoon.css 1 http://www.oozaaoo.com/mybooking/
+http://71.18.41.19:80/mysql/ 1 -
+/static/v2/css/font-awesome.css 4 -
+/sitemap.php 5 -
+/static/v2/js/tooltip.js 2 http://www.oozaaoo.com/
+/css/style.css 3 http://oozaaoo.com/
+/mybooking/ 9 -
+/MIB/index.aspx 1 -
+http://71.18.41.19:80/sql/phpmyadmin3/ 1 -
+/v2/terms_and_condition/ 2 -
+http://71.18.41.19:80/admin/sqladmin/ 1 -
+/contact-us.html 4 -
+http://71.18.41.19:80/phpMyAdmin-2/ 1 -
+http://testp1.piwo.pila.pl/testproxy.php 1 -
+http://71.18.41.19:80/sql/sql/ 1 -
+http://71.18.41.19:80/database/ 1 -
+http://71.18.41.19:80/PMA2012/ 1 -
+http://71.18.41.19:80/db/webadmin/ 1 -
+/static/v2/css/bootstrap-slider.css 4 -
+http://71.18.41.19:80/db/dbweb/ 1 -
+http://71.18.41.19:80/phpmanager/ 1 -
+/img/fav.png 38 -
+/images/client-testimonial.png 1 http://www.oozaaoo.com/
+http://71.18.41.19:80/phpmyadmin2/ 1 -
+/css/header-css/style2.css 4 http://www.oozaaoo.com/
+http://71.18.41.19:80/mysqlmanager/ 1 -
+http://71.18.41.19:80/PMA2015/ 1 -
+/etc/lib/pChart2/examples/index.php 1 -
+http://71.18.41.19:80/PMA2011/ 1 -
+http://71.18.41.19:80/mysql/db/ 1 -
+http://71.18.41.19:80/PMA2013/ 1 -
+/static/v2/css/jquery-ui.css 4 -
+http://71.18.41.19:80/phpmyAdmin/ 1 -
+http://71.18.41.19:80/db/db-admin/ 1 -
+http://71.18.41.19:80/sql/phpmyadmin4/ 1 -
+http://71.18.41.19:80/phpmy/ 1 -
+http://71.18.41.19:80/db/phpmyadmin3/ 1 -
+/user/password/reset/ 6 -
+http://71.18.41.19:80/3phpmyadmin/ 1 -
+/phpmyadmin/scripts/setup.php 1 -
+/static/js/bootstrap-timepicker.js 1 http://www.oozaaoo.com/mybooking/
+/muieblackcat 1 -
+http://71.18.41.19:80/phpMyAdmin2/ 1 -
+http://71.18.41.19:80/administrator/pma/ 1 -
+/static/img/logo-invert.png 1 -
+/static/v2/img/login-right.png 1 -
+/static/v2/js/jquery.ui.slider.js 2 http://www.oozaaoo.com/
+/static/v2/img/login-left.png 2 -
+/CHANGELOG.txt 7 -
+http://71.18.41.19:80/admin/phpMyAdmin/ 1 -
+/static/v2/js/nicescroll.js 2 http://www.oozaaoo.com/
+/js/jquery.min.map 51 -
+/static/css/bootstrap.css 1 -
+/static/v2/css/bootstrap.css 4 -
+/static/v2/js/jquery-1.9.1.js 2 http://www.oozaaoo.com/
+/css/bootstrap.min.css 4 http://www.oozaaoo.com/
+/static/js/magnific.js 1 http://www.oozaaoo.com/mybooking/
+http://71.18.41.19:80/sqlmanager/ 1 -
+/static/js/card-payment.js 1 http://www.oozaaoo.com/mybooking/
+/manager/html 5 -
+http://71.18.41.19:80/mysql/dbadmin/ 1 -
+http://71.18.41.19:80/pma2011/ 1 -
+http://71.18.41.19:80/phpmy-admin/ 1 -
+/joomla.xml 1 -
+http://71.18.41.19:80/php-myadmin/ 1 -
+http://71.18.41.19:80/admin/db/ 1 -
+END_SIDER_404
+
+# Plugin key - Pages - Hits - Bandwidth - Last access
+BEGIN_PLUGIN_geoip_city_maxmind 51
+unknown 0 4272 0 0
+in_madras_25 0 1731 0 0
+in_new%20delhi_07 0 508 0 0
+us_barstow_ca 0 439 0 0
+in_bangalore_19 0 263 0 0
+in_hyderabad_02 0 198 0 0
+in_coimbatore_25 0 171 0 0
+in_mumbai_16 0 162 0 0
+in_pune_16 0 151 0 0
+in_kumar_11 0 104 0 0
+de_kiez_12 0 2 0 0
+cn_beijing_22 0 15 0 0
+us_scottsdale_az 0 1 0 0
+us_san%20diego_ca 0 1 0 0
+us_mountain%20view_ca 0 89 0 0
+us_simsbury_ct 0 1 0 0
+sk_bratislava_02 0 1 0 0
+us_ann%20arbor_mi 0 2 0 0
+cn_chaoyang_19 0 1 0 0
+se_nordmaling_23 0 2 0 0
+us_saint%20louis_mo 0 2 0 0
+us_saginaw_mi 0 1 0 0
+tr_mars_65 0 1 0 0
+us_sunnyvale_ca 0 1 0 0
+br_são%20paulo_27 0 73 0 0
+in_gandhinagar_09 0 49 0 0
+us_malvern_pa 0 1 0 0
+ru_vladivostok_59 0 1 0 0
+in_madurai_25 0 6 0 0
+us_simi%20valley_ca 0 51 0 0
+us_nashville_tn 0 1 0 0
+no_trondheim_16 0 1 0 0
+us_austin_tx 0 2 0 0
+br_salvador_05 0 13 0 0
+pe_trujillo_13 0 49 0 0
+us_bakersfield_ca 0 4 0 0
+in_thana_16 0 93 0 0
+us_northridge_ca 0 1 0 0
+br_campinas_27 0 48 0 0
+br_ribeirão%20prêto_27 0 27 0 0
+us_chicago_il 0 1 0 0
+us_kansas%20city_mo 0 1 0 0
+in_rajkot_09 0 56 0 0
+in_pondicherry_22 0 97 0 0
+us_wilmington_de 0 2 0 0
+br_rio%20de%20janeiro_21 0 24 0 0
+pt_lisbon_14 0 49 0 0
+dk_Ålborg_19 0 1 0 0
+in_jaipur_24 0 40 0 0
+ru_moscow_48 0 1 0 0
+us_woodbridge_nj 0 4 0 0
+END_PLUGIN_geoip_city_maxmind
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 163
+14.102.43.11 296 2780 411715109 20160331093242
+122.165.111.97 135 1367 248475414 20160331071302
+117.208.232.230 20 138 16576574 20160322014826
+106.208.91.247 18 226 50375103 20160323022425
+1.39.60.79 17 165 27710298 20160319123113
+64.233.172.177 16 129 30851669 20160328092139
+117.218.45.253 16 79 10096369 20160322021733
+59.96.232.239 16 151 37608953 20160325020020
+106.209.27.75 15 142 30131022 20160320041653
+122.178.182.127 13 171 27338120 20160328034929
+177.87.104.75 1 29 6674210 20160322092138
+120.132.50.135 1 1 70301 20160325150644
+89.188.17.235 2 2 140602 20160325051736
+64.113.32.29 1 1 70301 20160321155631
+64.233.172.185 7 127 32706562 20160328083943
+185.100.85.138 1 1 70301 20160319194800
+189.79.192.151 1 27 5736335 20160325223118
+138.201.46.148 1 1 70301 20160327164024
+82.162.125.35 1 1 70301 20160331034838
+66.249.84.101 1 1 70301 20160327112559
+176.117.234.26 1 1 70301 20160328192149
+52.25.106.117 2 2 140602 20160326022151
+211.6.122.123 1 1 4101 20160319101808
+177.36.60.119 1 7 2383071 20160319120444
+203.99.198.240 1 41 11001965 20160323025856
+195.154.5.91 2 2 140602 20160326195658
+14.99.177.219 4 19 3650209 20160321023300
+96.5.113.98 0 1 176717 
+64.233.172.193 10 131 30967552 20160328083950
+94.242.246.24 1 1 70301 20160322062655
+66.249.82.181 2 2 140602 20160328084019
+66.249.80.105 1 1 70301 20160327112932
+85.24.215.117 1 1 70301 20160321155429
+66.249.88.70 2 16 5169930 20160329032511
+64.233.172.192 2 18 3343647 20160321110200
+181.213.51.141 1 25 4476917 20160322095601
+213.136.76.46 2 2 140602 20160321062407
+66.249.82.185 2 2 70354 20160328084023
+122.170.136.245 6 44 10029687 20160321022006
+203.88.142.210 5 49 13655438 20160322044035
+107.150.46.37 1 1 70301 20160326162211
+117.207.72.187 1 6 126659 20160321012238
+90.185.54.148 1 1 70301 20160324005024
+122.174.35.208 6 62 15632642 20160321102229
+8.37.235.80 5 49 12219524 20160326090814
+104.131.157.171 1 1 70301 20160321155631
+155.94.254.143 1 1 70301 20160326003054
+199.30.25.7 6 51 14216360 20160320131055
+77.93.203.171 1 1 70301 20160321155631
+115.241.3.69 9 60 13746288 20160322021636
+187.120.16.3 1 13 448082 20160319135645
+122.164.184.240 10 100 13913378 20160330021558
+117.206.137.91 7 56 14142522 20160328085325
+197.231.221.211 1 1 70301 20160320092955
+223.227.103.117 7 30 4784689 20160323005652
+190.40.99.21 5 49 12226144 20160330175007
+117.207.115.92 6 43 8516657 20160321020040
+74.91.20.195 2 2 140602 20160331080456
+64.233.172.176 2 16 4888773 20160321110200
+185.56.82.129 1 1 70301 20160331224409
+107.167.111.90 1 36 10847152 20160319121000
+74.91.18.44 1 1 70301 20160325131516
+177.179.156.237 1 28 5906179 20160326225629
+125.23.196.78 7 49 10823004 20160325070552
+107.23.193.247 2 2 140602 20160331120019
+69.197.185.21 1 1 70301 20160330074828
+66.249.83.70 0 3 1243852 
+66.102.7.176 3 3 210903 20160331005355
+162.212.24.50 2 2 140602 20160320055328
+59.95.173.96 5 40 8179231 20160329024233
+187.64.187.158 2 46 11972768 20160328192450
+66.249.82.189 1 1 70301 20160328084019
+182.65.211.29 9 130 27636538 20160326072856
+69.30.250.210 1 1 70301 20160320080011
+69.84.207.246 4 4 233291 20160324005151
+182.118.55.161 1 1 70301 20160331142901
+61.2.137.104 5 31 4477158 20160324073034
+223.187.91.116 6 30 4232053 20160321123025
+178.62.113.173 1 1 70301 20160321155631
+64.233.172.184 3 18 6052113 20160321110200
+185.112.102.170 2 2 0 20160330011823
+213.61.149.100 1 1 70301 20160329092216
+66.249.83.67 0 4 2160354 
+106.208.39.89 6 51 13945829 20160330133118
+85.138.110.184 5 49 12226144 20160321170145
+182.65.200.189 5 29 6354433 20160330092447
+136.145.86.72 2 2 140602 20160320161955
+116.72.16.106 6 62 15632642 20160321041809
+66.249.80.121 2 2 140602 20160324001504
+54.206.31.52 1 1 70301 20160329092900
+201.29.53.131 1 24 3708886 20160322100027
+121.42.29.163 1 4 196591 20160320041357
+222.186.30.71 1 1 70301 20160323052155
+123.59.59.52 2 2 140602 20160326034327
+208.100.26.230 1 1 0 20160319153256
+64.202.160.250 1 1 70301 20160322113645
+93.174.93.218 2 2 108950 20160325074716
+66.102.7.162 2 2 140602 20160330005104
+168.235.197.77 1 63 14401809 20160322054546
+188.166.112.213 1 1 70301 20160321155631
+216.163.188.225 1 1 70301 20160331082131
+136.243.33.181 1 1 70301 20160320180240
+1.39.62.208 0 2 1647727 
+115.242.243.215 10 132 19956313 20160320000250
+122.164.176.193 8 90 22811697 20160326020652
+5.9.107.142 1 1 70301 20160331035254
+121.42.148.17 1 6 226502 20160320041321
+54.245.13.217 2 2 140602 20160328111041
+83.219.199.236 2 2 140602 20160325230335
+66.249.83.64 0 1 1678089 
+117.202.12.10 9 115 26561489 20160329090902
+122.174.177.125 6 71 17426175 20160326070356
+193.90.12.86 1 1 70301 20160327130751
+74.91.22.74 7 7 415116 20160328092434
+209.126.102.14 1 1 70301 20160326231942
+177.189.153.99 0 1 768031 
+177.159.193.157 5 49 12226144 20160326191010
+65.19.167.132 1 1 70301 20160320203744
+66.249.88.97 1 24 6559826 20160329032511
+221.199.187.35 2 2 140602 20160320121212
+125.63.99.252 7 113 25771094 20160329025345
+66.249.80.113 1 1 70301 20160322231444
+125.17.161.253 7 104 22960089 20160330055606
+115.249.70.98 13 102 27448382 20160331060638
+66.249.84.102 1 1 70301 20160323064041
+66.249.88.87 5 21 3731748 20160329032511
+202.142.76.98 1 16 5176132 20160320045305
+106.208.108.120 9 78 19617042 20160323083702
+187.106.2.45 5 48 12052268 20160319230519
+212.83.40.238 1 1 70301 20160320043832
+1.39.61.207 0 2 2035914 
+182.65.211.37 6 51 13913378 20160328100750
+95.134.118.71 1 1 70301 20160320100244
+187.11.4.171 1 24 3708886 20160322151332
+209.126.230.71 1 1 70301 20160331222529
+178.40.169.210 0 1 19186 
+117.231.50.147 9 85 16361678 20160321113149
+169.54.233.120 1 1 70301 20160324203257
+141.212.122.193 1 1 70301 20160325042058
+107.150.46.36 1 1 70301 20160331032323
+27.153.207.198 1 1 70301 20160327230118
+74.91.23.107 1 1 70301 20160327054819
+76.74.97.4 1 1 70301 20160321074704
+69.64.34.137 1 1 70301 20160331160735
+62.150.96.174 0 1 179450 
+54.204.216.210 1 1 70301 20160322154750
+107.181.69.133 6 42 10761860 20160322025757
+123.176.34.12 8 73 17555824 20160322063937
+189.105.119.155 1 13 651636 20160320213407
+104.130.7.150 2 2 140602 20160321195306
+64.233.173.17 0 1 119466 
+66.102.7.169 3 3 210903 20160329004737
+188.12.6.153 1 20 2185447 20160323080846
+65.19.167.130 1 1 70301 20160325182238
+183.83.50.53 10 125 26059816 20160329235603
+117.207.119.173 9 54 14428497 20160330013041
+187.37.213.152 5 49 12226144 20160323082051
+182.65.14.218 1 8 256446 20160327144109
+107.150.32.59 1 1 70301 20160322152233
+141.212.122.161 1 1 70301 20160325145657
+1.39.63.209 5 50 14147293 20160321011054
+212.68.41.83 1 1 70301 20160319205051
+177.85.175.201 1 21 3067337 20160324093131
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 13
+20160319 102 1157 204565912 10
+20160320 47 376 71398168 16
+20160321 206 1927 397670070 37
+20160322 191 1462 212685187 23
+20160323 86 899 143894182 13
+20160324 38 365 62927647 10
+20160325 35 238 54909951 11
+20160326 60 604 127025538 14
+20160327 7 14 678252 7
+20160328 94 648 138503699 18
+20160329 41 448 101067066 10
+20160330 46 392 84218723 10
+20160331 37 285 67550537 14
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 7
+5mn-15mn 19
+0s-30s 131
+15mn-30mn 5
+2mn-5mn 11
+30s-2mn 14
+30mn-1h 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 32
+/ 266 17622668 173 104
+/fonts/Rounded%20Elegance.ttf 100 12982860 2 5
+/international.php 82 8160406 2 16
+/fonts/helvetica/Helvetica.woff2 79 711312 0 2
+/fonts/pacifico/Pacifico.woff2 76 1510116 1 12
+/fonts/glyphicons-halflings-regular.woff2 76 1045624 0 0
+/domestic.php 57 3382836 2 10
+/index.php 51 3590975 2 6
+/contact.php 46 1514148 0 11
+/about_us.php 27 939249 0 2
+http://www.elong.com/ 2 140602 2 2
+/fonts/helvetica/Helvetica.woff 12 177168 3 1
+/fonts/helvetica/Helvetica-Bold.eot 1 28820 0 0
+/fonts/pacifico/Pacifico.ttf 9 392688 0 7
+/googlef32d9fa0f64cf5c4.html 1 53 0 1
+/fonts/helvetica/Helvetica.ttf 8 217344 1 1
+/fonts/glyphicons-halflings-regular.woff 13 304512 1 1
+/fonts/pacifico/Pacifico.eot 1 43820 0 0
+/fonts/glyphicons-halflings-regular.ttf 7 317828 0 0
+/fonts/helvetica/Helvetica.eot 1 23824 0 0
+/fonts/glyphicons-halflings-regular.eot 1 20127 0 0
+/fonts/pacifico/Pacifico.woff 13 1374048 0 4
+/fonts/helvetica/Helvetica-Bold.ttf 2 106200 0 0
+/fonts/helvetica/Helvetica-Light.ttf 2 50224 0 0
+/fonts/helvetica/Helvetica-Bold.woff2 13 361824 0 0
+http://httpheader.net 2 108950 1 1
+/fonts/helvetica/Helvetica-Light.woff2 13 134160 0 1
+/fonts/helvetica/Helvetica-Bold.woff 10 275904 0 1
+/fonts/helvetica/Helvetica-Light.woff 14 166992 2 4
+/fonts/helvetica/Helvetica-Light.eot 1 22300 0 0
+/mail.php 3 360 0 0
+http://www.mafengwo.cn/ 1 70301 1 1
+END_SIDER

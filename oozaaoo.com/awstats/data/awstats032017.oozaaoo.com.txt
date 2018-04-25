@@ -1,0 +1,1363 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201703 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1915                
+POS_TIME 2602                
+POS_VISITOR 23105               
+POS_DAY 41159               
+POS_DOMAIN 3577                
+POS_LOGIN 4591                
+POS_ROBOT 4746                
+POS_WORMS 5577                
+POS_EMAILSENDER 5708                
+POS_EMAILRECEIVER 5851                
+POS_SESSION 42060               
+POS_SIDER 42264               
+POS_FILETYPES 5986                
+POS_OS 6280                
+POS_BROWSER 6421                
+POS_SCREENSIZE 7038                
+POS_UNKNOWNREFERER 7112                
+POS_UNKNOWNREFERERBROWSER 8098                
+POS_ORIGIN 8504                
+POS_SEREFERRALS 8648                
+POS_PAGEREFS 8827                
+POS_SEARCHWORDS 9613                
+POS_KEYWORDS 9779                
+POS_MISC 2266                
+POS_ERRORS 9852                
+POS_CLUSTER 4447                
+POS_SIDER_404 10018               
+POS_PLUGIN_geoip_city_maxmind 19915               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170401000218 1559 320689 13065363552152
+FirstTime 20170301014828
+LastTime 20170331194646
+LastUpdate 20170401062640 1559 900 658 0 0
+TotalVisits 450                 
+TotalUnique 379                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 480                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 85 905 97468232 594 724 19660541
+1 79 631 60917251 626 686 11900049
+2 136 1445 154538915 609 659 12197453
+3 109 913 90605717 625 676 13486489
+4 71 484 51686088 699 782 14325294
+5 98 747 73671227 662 713 12757377
+6 63 313 30764678 704 733 10699381
+7 145 1207 128739210 653 711 13718903
+8 87 841 85325625 598 626 10508418
+9 70 410 37018444 635 696 16351475
+10 78 422 39620041 795 824 11355280
+11 38 301 31984511 651 680 9593611
+12 27 259 26168955 596 660 11715578
+13 45 299 28035791 658 717 14825455
+14 44 200 14983885 687 717 10525785
+15 20 137 8417438 643 705 16887137
+16 27 92 7541175 702 761 13770570
+17 27 41 2499848 664 725 14086999
+18 12 77 6722110 593 633 11852651
+19 23 29 1641126 624 693 13087184
+20 25 52 2985869 613 652 11506068
+21 45 280 21358849 657 690 11743665
+22 23 198 21834770 660 686 9797811
+23 37 305 30221657 547 595 10012083
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 53
+in 463 4995 528316752
+us 278 1957 182117081
+unknown 170 1166 108144984
+id 132 1339 142334947
+ru 49 259 16999428
+fr 42 241 27030750
+cn 34 34 1794100
+nl 29 29 1775128
+at 23 23 9591
+hk 22 22 1053680
+ua 8 9 386918
+tr 1 1 72188
+eg 1 1 72188
+ba 1 1 72188
+ph 3 5 773740
+es 1 3 331083
+no 2 2 144376
+my 2 3 422964
+kr 21 21 1174730
+lv 0 1 278588
+mx 2 2 80070
+ro 4 6 781622
+tn 1 1 72188
+ec 1 1 72188
+sg 7 131 14537820
+sa 0 1 92841
+mz 1 1 72188
+lb 0 1 278588
+th 2 4 480401
+br 3 3 191738
+hr 1 1 72188
+de 16 40 1624470
+be 1 1 72188
+ge 1 1 72188
+jp 11 75 6022622
+gr 1 2 350776
+tw 1 1 3
+au 11 61 5373405
+am 7 7 339706
+ch 12 12 866256
+gb 6 9 1073065
+eu 6 6 187723
+jo 1 1 72188
+bg 0 2 152400
+it 3 3 216564
+pk 4 4 107653
+hu 1 2 283075
+ca 16 19 1243811
+pl 0 1 56988
+za 3 4 364857
+lk 1 1 11767
+ae 7 71 6150283
+iq 1 1 72188
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 19
+googlebot 10901 155653576 20170331235810 0
+baiduspider 1642 56220614 20170331234917 0
+no_user_agent 1062 11166842 20170331230324 0
+bot[+:,\.\;\/\\-] 396 28417673 20170331212142 0
+yandex 168 15497207 20170331225215 0
+seznambot 164 2792207 20170331224104 0
+sogou 136 10378844 20170331195719 0
+phantom 92 7116363 20170318152150 0
+mj12bot 14 926944 20170326230520 0
+infobot 12 782570 20170330132624 0
+spider 1 72362 20170331034758 0
+slurp 4 192438 20170311225617 0
+python 8 535659 20170323041905 0
+legs 1 72187 20170329220411 0
+surveybot 2 144376 20170328045258 0
+java 1 72187 20170329142310 0
+msnbot\-media 10 651757 20170330172744 0
+netcraft 3 72187 20170310104408 0
+crawl 10 681783 20170326030734 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+eot 30 833346 0 0
+css 1177 33433286 0 0
+png 4860 800896482 0 0
+ttf 112 17656952 0 0
+woff 70 2781392 0 0
+woff2 311 5592692 0 0
+php 470 22353637 0 0
+html 421 29760241 0 0
+xml 1 1007 0 0
+js 1859 65139127 0 0
+jpg 1243 76280266 0 0
+jpeg 34 22984 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 9
+winlong 54
+winxp 445
+win2000 20
+winnt 5214
+linux 3790
+macosx 819
+winunknown 60
+win2003 11
+Unknown 175
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 42
+msie6.0 64
+firefox28.0 4
+firefox15.0 1
+firefox20.0 61
+firefox3.6 40
+firefox10.0 1
+ibrowse 138
+firefox52.0 751
+firefox34.0 2
+lynx 1
+firefox49.0 181
+firefox31.0 15
+msie8.0 141
+msie7.0 93
+firefox40.1 50
+firefox41.0 1
+firefox9.0.1 1
+wget 3
+msie9.0 20
+Unknown 43
+firefox3.0.8 2
+firefox11.0 10
+firefox50.0 1
+firefox53.0 222
+opera 21
+firefox21.0 46
+firefox29.0 1
+firefox3.5.2 1
+msie5.5 1
+firefox46.0 4
+firefox47.0 5
+firefox1.0.7 19
+mozilla 330
+firefox25.0 165
+netscape5.0 13
+firefox22.0 2
+firefox3.6.28 2
+msie10.0 2
+firefox51.0 407
+firefox3.6.3 1
+firefox35.0 2
+safari 7720
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 17
+masscan/1.0_(https://github.com/robertdavidgraham/masscan) 20170328125614
+panscient.com 20170328190227
+Mozilla/5.0_zgrab/0.x 20170324132924
+Scanbot 20170330224504
+Opera/9.27 20170324060735
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20170302105542
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20170322002608
+Mozilla/5.0_(compatible;_ips-agent) 20170302015714
+Lynx/2.8.8dev.3_libwww-FM/2.14_SSL-MM/1.4.1 20170301175946
+Opera/9.80_(Android;_Opera_Mini/15.0.2125/58.203;_U;_en)_Presto/2.12.423_Version/12.16 20170314101135
+go-request/0.5.0 20170312090900
+www.probethenet.com_scanner 20170315200718
+Mozilla/5.0 20170329112717
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20170331074248
+Go-http-client/1.1 20170327172250
+Mozilla/4.0_(compatible;) 20170321033349
+Opera/9.80_(Android;_Opera_Mini/15.0.2125/58.172;_U;_en)_Presto/2.12.423_Version/12.16 20170314100253
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20170331074248
+Go-http-client/1.1 20170327172250
+masscan/1.0_(https://github.com/robertdavidgraham/masscan) 20170328125614
+panscient.com 20170328190227
+Scanbot 20170330224504
+go-request/0.5.0 20170312090900
+www.probethenet.com_scanner 20170315200718
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 555 712
+From1 9 9
+From2 46 116
+From3 14 15
+From4 790 9736
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 39 109
+yandex 6 6
+yahoo 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 11
+http://w3data.co/profile.php 3 3
+http://172.29.64.17:1088/module_in/index.php/contract_photos/edit/0413PX413.X413.150812134707.W2T3 2 2
+http://googleweblight.com 2 2
+http://www.bracesinfo.com/dentalcosts/us/tn/memphis/fillings.html 1 1
+http://172.29.64.17:1088/module_in/index.php/contract_photos/edit/0413PX413.X413.150409164028.E8A2 1 1
+http://www.etekchnoservices.com/portfolio.html 1 1
+http://hvd-store.com 1 1
+http://burger-imperia.com 1 1
+http://lnkd.in 1 1
+http://172.29.64.17:1088/module_in/index.php/contract_photos/edit/0413PX413.X413.160825115125.K1H6 1 1
+http://blogging.eu.org/gallery/shimoga-airport-photos-alaska.html 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+oozaaoo.com 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+oozaaoo.com 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+408 2 446
+401 31 15407
+403 11 5467
+302 17 1598
+206 154 14272951
+400 8 2350
+404 1894 619262
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 299
+/admin/datenbank/main.php 1 -
+/phpMyAdmin-3.1.2.0-english/scripts/setup.php 1 -
+/wordpress/ 2 -
+/struts-2.5.1/login.action 3 -
+/admin.php 3 -
+/admin/sqlweb/main.php 1 -
+http://71.18.41.19:80/db/ 7 -
+/phpMyAdmin-2.8.3/scripts/setup.php 2 -
+/phpMyAdmin-2.7.0-beta1/scripts/setup.php 1 -
+/js/s3slider.js 1 -
+/admin/agent/default.action 7 -
+/admin/sysadmin/main.php 1 -
+/phpMyAdmin-2.6.4-pl3/scripts/setup.php 1 -
+/xmlrpc.php 2 -
+/about-uscc 4 -
+/php-my-admin/scripts/setup.php 1 -
+/mysqladmin/main.php 1 -
+http://71.18.41.19:80/sql/websql/ 7 -
+/phpMyAdmin-2.10.2.0/scripts/setup.php 1 -
+/phpMyAdmin2/scripts/setup.php 2 -
+http://71.18.41.19:80/admin/ 7 -
+http://71.18.41.19:80/phpMyAdmin4/ 8 -
+/dbadmin/main.php 1 -
+http://71.18.41.19:80/phppma/ 7 -
+//admn/scripts/setup.php 1 -
+/current_config/passwd 4 -
+/map_ports.html 1 -
+/web/Index.action 7 -
+http://71.18.41.19:80/db/phpMyAdmin3/ 8 -
+/mysql/main.php 1 -
+/administrator/ 3 -
+http://71.18.41.19:80/mysql/pMA/ 8 -
+/padmin/main.php 1 -
+http://71.18.41.19:80/phpMyadmin/ 8 -
+/admin/database/main.php 1 -
+/wp-login.php 60 -
+/admin/webdb/main.php 1 -
+http://71.18.41.19:80/sql/php-myadmin/ 8 -
+http://71.18.41.19:80/mysql/admin/ 8 -
+/js/mail.php 2 -
+http://71.18.41.19:80/PMA/ 7 -
+http://71.18.41.19:80/db/websql/ 7 -
+/v2/privacy/ 3 -
+/admin/myadmin/main.php 1 -
+/login.action 15 -
+/admin/sqladmin/main.php 1 -
+/language/en-GB/en-GB.xml 2 -
+http://71.18.41.19:80/db/phpMyAdmin/ 7 -
+http://71.18.41.19:80/admin/phpmyadmin/ 8 -
+/php-my-admin/main.php 1 -
+http://71.18.41.19:80/phpmyadmin/ 8 -
+http://71.18.41.19:80/db/webdb/ 7 -
+/apache-default/phpmyadmin/scripts/setup.php 1 -
+/Struts2XMLHelloWorld/User/home.action:linux 15 -
+http://71.18.41.19:80/sql/phpMyAdmin2/ 8 -
+http://71.18.41.19:80/shopdb/ 8 -
+/cgi-bin/supervisor/CloudSetup.cgi 1 -
+/struts-2.3.20.3/login.action 3 -
+/support/ 1 -
+/portal/client/cms/viewcmspage.action 7 -
+/Struts2XMLHelloWorld/User/home.action 1 -
+/struts-2.3.24.1/login.action 3 -
+http://71.18.41.19:80/mysqladmin/ 7 -
+/admin/db/main.php 1 -
+/struts-2.5.2/login.action 3 -
+/phpMyAdmin-2/scripts/setup.php 2 -
+/admin/web/main.php 1 -
+http://71.18.41.19:80/sql/webadmin/ 8 -
+/frame/first.action 6 -
+//administrator/components/com_joommyadmin/phpmyadmin/scripts/setup.php 1 -
+http://71.18.41.19:80/phpmyadmin4/ 7 -
+/web/scripts/setup.php 1 -
+/inetpub/main.php 1 -
+/struts-2.3.28.1/login.action 3 -
+http://71.18.41.19:80/db/dbadmin/ 7 -
+http://71.18.41.19:80/sql/sqladmin/ 7 -
+/admin/pma/main.php 1 -
+/struts-2.3.31/login.action 3 -
+/admin/phpmyadmin/scripts/setup.php 1 -
+/robots.txt 579 -
+http://71.18.41.19:80/mysql/web/ 8 -
+/struts-2.5-BETA1/login.action 3 -
+/admin/websql/main.php 1 -
+http://71.18.41.19:80/2phpmyadmin/ 7 -
+/phpMyAdmin-2.6.1-pl2/scripts/setup.php 1 -
+/struts-2.3.30/login.action 3 -
+/cpanelphpmyadmin/scripts/setup.php 1 -
+/home.html 2 -
+/struts-2.5-BETA3/login.action 3 -
+/index.action 3 http://71.18.41.19:80/index.action
+http://71.18.41.19:80/mysql-admin/ 7 -
+/datenbank/main.php 1 -
+/scripts/setup.php 1 -
+http://71.18.41.19:80/mysql/mysqlmanager/ 8 -
+http://71.18.41.19:80/sql/sql-admin/ 8 -
+/js/input.length 1 -
+/phpMyAdmin-2.7.5/scripts/setup.php 1 -
+/mybooking/ 2 -
+/onvif/device_service 2 -
+/phpMyAdmin-2.7.6/scripts/setup.php 1 -
+/websql/main.php 1 -
+/v2/terms_and_condition/ 7 -
+http://71.18.41.19:80/admin/sqladmin/ 7 -
+/vportal/web/gateway/home.action 7 -
+http://71.18.41.19:80/sql/sql/ 8 -
+/phpTest/zologize/axa.php 2 -
+http://71.18.41.19:80/PMA2012/ 8 -
+http://71.18.41.19:80/db/webadmin/ 7 -
+/img/fav.png 61 http://www.oozaaoo.com/
+http://71.18.41.19:80/phpmyadmin2/ 7 -
+http://71.18.41.19:80/PMA2011/ 7 -
+http://71.18.41.19:80/db/db-admin/ 8 -
+/phpMyAdmin-3.4.3.1/scripts/setup.php 1 -
+/admin/php-my-admin/main.php 1 -
+/struts2-showcase/login.action 13 -
+/struts-2.5/login.action 3 -
+/dbadmin/scripts/setup.php 1 -
+/phpMyAdmin-2.8.2.3/scripts/setup.php 2 -
+/struts2/login.action 7 -
+http://71.18.41.19:80/db/phpmyadmin3/ 7 -
+/user/password/reset/ 4 -
+/phpMyAdmin-3.1.1.0-all-languages/scripts/setup.php 1 -
+/redirect.php 1 -
+/blog/ 2 -
+/web/main.php 1 -
+/about.html 4 -
+/wp/ 2 -
+/pma/main.php 1 -
+/user/soapCaller.bs 1 -
+/server/main.php 1 -
+/web/phpMyAdmin/scripts/setup.php 1 -
+/phpmyadmin2/main.php 1 -
+http://71.18.41.19:80/admin/phpMyAdmin/ 8 -
+/struts2-core-2.3.8/login.action 3 -
+/script/live.js 1 -
+http://71.18.41.19:80/sqlmanager/ 7 -
+/pma/scripts/setup.php 6 -
+/phpMyAdmin-2.7.7/scripts/setup.php 1 -
+http://71.18.41.19:80/mysql/dbadmin/ 8 -
+/xampp/main.php 1 -
+/struts-2.3.24.3/login.action 3 -
+/shell 2 http://71.18.41.19/shell
+/phpMyAdmin-2.6.4-pl4/scripts/setup.php 1 -
+/phpmyadmin/index.php 2 -
+http://71.18.41.19:80/phpmy-admin/ 7 -
+http://71.18.41.19:80/admin/db/ 8 -
+/struts-2.3.20/login.action 3 -
+/ 2 -
+http://71.18.41.19:80/administrator/PMA/ 8 -
+/phpMyAdmin-3.1.2.0-all-languages/scripts/setup.php 1 -
+http://71.18.41.19:80/pma2012/ 7 -
+/database/main.php 1 -
+/script 1 -
+/cgi/common.cgi 3 -
+/invoker/JMXInvokerServlet 1 -
+http://71.18.41.19:80/php-my-admin/ 8 -
+/stssys.htm 3 -
+/phpMyAdmin-2.6.5/scripts/setup.php 1 -
+http://71.18.41.19:80/dbadmin/ 7 -
+//MyAdmin/scripts/setup.php 3 -
+http://71.18.41.19:80/sql/phpMyAdmin/ 8 -
+/v2/login 6 -
+/language/Swedish${IFS}&&echo${IFS}610cker>qt&&tar${IFS}/string.js 2 -
+http://71.18.41.19:80/pma/ 7 -
+/phpMyAdmin3/scripts/setup.php 1 -
+/CFIDE/administrator/ 1 -
+/struts-2.3.20.1/login.action 3 -
+/struts/login.action 7 -
+/webadmin/main.php 1 -
+/images/5.jpg 1 http://www.oozaaoo.com/
+/phpMyAdmin-2.8.5/scripts/setup.php 1 -
+/phpMyAdmin-2.7.0-pl2/scripts/setup.php 1 -
+http://71.18.41.19:80/sql/webdb/ 7 -
+http://71.18.41.19:80/db/phpMyAdmin-3/ 7 -
+/phpadmin/scripts/setup.php 1 -
+/admin/phpmyadmin2/main.php 1 -
+/www/main.php 1 -
+/wamp/main.php 1 -
+/images/4.jpg 1 http://www.oozaaoo.com/
+http://71.18.41.19:80/admin/pMA/ 7 -
+http://71.18.41.19:80/sql/myadmin/ 8 -
+http://71.18.41.19:80/sql/phpmanager/ 7 -
+/sqlweb/main.php 1 -
+http://71.18.41.19:80/myadmin/ 8 -
+/aboutus/ 2 -
+/v2/register 10 -
+/db/main.php 1 -
+/phpMyAdmin/scripts/setup.php 7 -
+//pma/scripts/setup.php 3 -
+http://71.18.41.19:80/admin/sysadmin/ 7 -
+http://71.18.41.19:80/program/ 8 -
+http://71.18.41.19:80/administrator/phpmyadmin/ 8 -
+/_phpmyadmin/scripts/setup.php 2 -
+//phpmyadmin/scripts/setup.php 4 -
+/admin/mysql/main.php 1 -
+http://71.18.41.19:80/sql/phpmy-admin/ 8 -
+/mysql/scripts/setup.php 1 -
+http://71.18.41.19:80/phpMyAdmin-3/ 7 -
+/sqlmanager/main.php 1 -
+http://71.18.41.19:80/sql/sqlweb/ 7 -
+http://71.18.41.19:80/phpMyAdmin/ 8 -
+/sql/main.php 1 -
+/phpMyAdmin-2.7.0-pl1/scripts/setup.php 1 -
+//mysqladmin/scripts/setup.php 1 -
+/wp-admin/admin-ajax.php 1 -
+/easyphp1-8/main.php 1 -
+/phpMyAdmin-2.6.6/scripts/setup.php 1 -
+/phpMyAdmin-2.6.1-pl3/scripts/setup.php 1 -
+/phpMyAdmin-3.1.2.0/scripts/setup.php 1 -
+//myadmin/scripts/setup.php 4 -
+/phpMyAdmin-2.6.9/scripts/setup.php 1 -
+http://71.18.41.19:80/administrator/admin/ 7 -
+/websql/scripts/setup.php 1 -
+/tmUnblock.cgi 2 -
+/admin/scripts/setup.php 1 -
+http://71.18.41.19:80/db/phpmyadmin/ 7 -
+/struts-2.5.10/login.action 3 -
+/mainAction.action 2 -
+/administrator/index.php 2 -
+http://71.18.41.19:80/phpMyAdmin3/ 8 -
+/admin/padmin/main.php 1 -
+/struts-2.3.29/login.action 3 -
+http://71.18.41.19:80/administrator/db/ 8 -
+/current_config/Account1 5 -
+http://71.18.41.19:80/db/myadmin/ 7 -
+http://71.18.41.19:80/administrator/web/ 8 -
+http://71.18.41.19:80/sql/phpmyadmin2/ 8 -
+/phpmyadmin 4 http://71.18.41.19/phpmyadmin
+/struts-2.5-BETA2/login.action 3 -
+/webserver/main.php 1 -
+/struts-2.5.8/login.action 3 -
+/struts2_2.3.15.1-showcase/showcase.action 7 -
+/phpMyAdmin-2.8.8/scripts/setup.php 1 -
+/antanistaticmap/stats/yesterday 1 -
+/admin/pma/scripts/setup.php 1 -
+/struts-2.3.28/login.action 3 -
+http://71.18.41.19:80/mysql/sqlmanager/ 8 -
+/phpMyAdmin-2.8.2/scripts/setup.php 1 -
+http://71.18.41.19:80/administrator/phpMyAdmin/ 8 -
+http://71.18.41.19:80/admin/web/ 8 -
+/phpMyAdmin-2.7.0-rc1/scripts/setup.php 1 -
+/cpanel/getid/ 1 -
+/images/domestic/trivandrum.png 44 http://www.oozaaoo.com/domestic.php
+/admin/webadmin/main.php 1 -
+http://71.18.41.19:80/MyAdmin/ 7 -
+/mysql-admin/main.php 1 -
+http://71.18.41.19:80/phpmyadmin3/ 7 -
+/webdb/main.php 1 -
+http://71.18.41.19:80/mysql/pma/ 7 -
+/struts-2.5.10.1/login.action 3 -
+/websites/main.php 1 -
+http://71.18.41.19:80/mysql/ 7 -
+/root/main.php 1 -
+/admin/mysql-admin/main.php 1 -
+/webroot/main.php 1 -
+/contact-us.html 2 -
+/myadmin/scripts/setup.php 8 -
+/phpMyAdmin-2.6.4-rc1/scripts/setup.php 1 -
+http://71.18.41.19:80/database/ 7 -
+http://71.18.41.19:80/db/dbweb/ 7 -
+http://71.18.41.19:80/phpmanager/ 8 -
+/images/client-testimonial.png 4 http://www.oozaaoo.com/contact.php
+http://71.18.41.19:80/mysqlmanager/ 7 -
+http://71.18.41.19:80/mysql/db/ 8 -
+/xampp/phpmyadmin/scripts/setup.php 1 -
+/mysqladmin/scripts/setup.php 2 -
+//websql/scripts/setup.php 1 -
+/w00tw00t.at.blackhats.romanian.anti-sec:) 3 -
+/admin/main.php 1 -
+http://71.18.41.19:80/phpmyAdmin/ 8 -
+/hndUnblock.cgi 2 -
+http://71.18.41.19:80/phpmy/ 7 -
+/MyAdmin/scripts/setup.php 4 -
+/notFound.action 15 -
+/phpmyadmin/scripts/setup.php 31 -
+/typo3/phpmyadmin/scripts/setup.php 1 -
+/muieblackcat 5 -
+http://71.18.41.19:80/administrator/pma/ 8 -
+http://71.18.41.19:80/phpMyAdmin2/ 8 -
+/admin/phpmyadmin/main.php 1 -
+http://180.163.113.82/check_proxy 4 -
+/struts-2.5.10.1-src/login.action 3 -
+/blog/robots.txt 2 -
+/command.php 3 -
+/struts-2.5.5/login.action 3 -
+/js/1.11.4 1 -
+/phpmyadmin/main.php 1 -
+/myadmin/main.php 1 -
+/struts-2.3.24/login.action 3 -
+/cpphpmyadmin/scripts/setup.php 1 -
+/admin/mysqladmin/main.php 1 -
+/googlebe73d339611e97a4.html 1 -
+/manager/html 1 -
+/db/scripts/setup.php 1 -
+//phpMyAdmin/scripts/setup.php 4 -
+/phpMyAdmin-2.8.4/scripts/setup.php 1 -
+/phpMyAdmin-2.8.6/scripts/setup.php 1 -
+http://71.18.41.19:80/pma2011/ 8 -
+http://71.18.41.19:80/php-myadmin/ 7 -
+END_SIDER_404
+
+# Plugin key - Pages - Hits - Bandwidth - Last access
+BEGIN_PLUGIN_geoip_city_maxmind 120
+unknown 0 4288 0 0
+id_jakarta_04 0 1334 0 0
+us_mountain%20view_ca 0 1151 0 0
+in_new%20delhi_07 0 959 0 0
+in_madras_25 0 373 0 0
+in_mumbai_16 0 294 0 0
+in_tiruppur_25 0 143 0 0
+fr_cachan_a8 0 136 0 0
+in_bangalore_19 0 134 0 0
+in_agra_36 0 129 0 0
+in_hyderabad_02 0 57 0 0
+us_whitmore%20lake_mi 0 1 0 0
+us_knoxville_tn 0 1 0 0
+ru_krasnodar_38 0 10 0 0
+sg_singapore_00 0 1 0 0
+us_sterling_va 0 6 0 0
+hr_nasice_17 0 1 0 0
+jp_tokyo_40 0 1 0 0
+tn_tunis_26 0 1 0 0
+ca_markham_on 0 1 0 0
+gb_bristol_b7 0 1 0 0
+in_kochi_13 0 74 0 0
+tr_sivas_58 0 1 0 0
+cn_changchun_05 0 5 0 0
+us_ann%20arbor_mi 0 1 0 0
+ua_makiyivka_05 0 1 0 0
+ba_kalesija_01 0 1 0 0
+us_palo%20alto_ca 0 5 0 0
+us_sunnyvale_ca 0 2 0 0
+us_duncan_sc 0 71 0 0
+lk_colombo_36 0 1 0 0
+hu_szolnok_20 0 1 0 0
+es_madrid_29 0 1 0 0
+at_vienna_09 0 23 0 0
+ru_chelyabinsk_13 0 1 0 0
+us_lake%20forest_ca 0 9 0 0
+ro_craiova_17 0 1 0 0
+in_tiruttani_25 0 56 0 0
+th_bangkok_40 0 3 0 0
+nl_meppel_01 0 1 0 0
+us_washington_dc 0 15 0 0
+gr_athens_35 0 1 0 0
+br_santos_27 0 1 0 0
+us_cupertino_ca 0 72 0 0
+my_kuala%20lumpur_14 0 2 0 0
+gb_manchester_i2 0 1 0 0
+us_mount%20laurel_nj 0 1 0 0
+de_munich_02 0 32 0 0
+us_henderson_nv 0 1 0 0
+us_san%20jose_ca 0 1 0 0
+fr_bagneux_a8 0 81 0 0
+tw_taipei_03 0 1 0 0
+ca_ottawa_on 0 14 0 0
+us_chicago_il 0 1 0 0
+in_chennai_25 0 61 0 0
+it_bari_13 0 1 0 0
+ph_quezon%20city_f2 0 1 0 0
+ec_guayaquil_10 0 1 0 0
+no_oslo_12 0 1 0 0
+us_woodbridge_nj 0 17 0 0
+ru_novosibirsk_53 0 41 0 0
+us_northvale_nj 0 102 0 0
+my_penang_09 0 1 0 0
+ua_vinnitsa_23 0 2 0 0
+lv_riga_25 0 1 0 0
+us_union%20city_nj 0 22 0 0
+nl_rotterdam_11 0 24 0 0
+us_palacios_tx 0 1 0 0
+cn_beijing_22 0 5 0 0
+cn_zhengzhou_09 0 1 0 0
+us_santa%20fe_nm 0 1 0 0
+cn_shenzhen_30 0 4 0 0
+ru_saint%20petersburg_66 0 42 0 0
+cn_jinan_25 0 1 0 0
+pk_lahore_04 0 3 0 0
+us_saint%20louis_mo 0 1 0 0
+cn_chaoyang_19 0 1 0 0
+in_mangaluru_19 0 71 0 0
+us_hollywood_fl 0 1 0 0
+cn_haidian_22 0 1 0 0
+in_coimbatore_25 0 121 0 0
+us_gainesville_fl 0 1 0 0
+nl_capelle_11 0 1 0 0
+am_yerevan_11 0 7 0 0
+ae_dubai_03 0 71 0 0
+us_miami_fl 0 3 0 0
+us_los%20angeles_ca 0 1 0 0
+gb_london_h9 0 1 0 0
+in_calicut_13 0 1 0 0
+jp_kanda_07 0 74 0 0
+cn_hebei_10 0 1 0 0
+cn_shenyang_19 0 1 0 0
+es_alpedrete_29 0 1 0 0
+hk_central%20district_00 0 2 0 0
+iq_sulaimani_10 0 1 0 0
+in_delhi_07 0 1 0 0
+za_cape%20town_11 0 1 0 0
+sa_riyadh_10 0 1 0 0
+hk_tseung%20kwan%20o_00 0 1 0 0
+be_floriffoux_07 0 1 0 0
+us_seattle_wa 0 22 0 0
+ca_lachine_qc 0 3 0 0
+kr_seoul_11 0 10 0 0
+ca_vancouver_bc 0 1 0 0
+in_pondicherry_22 0 110 0 0
+us_santa%20cruz_nm 0 4 0 0
+it_rome_07 0 1 0 0
+us_wilmington_de 0 111 0 0
+nl_amsterdam_07 0 2 0 0
+id_surabaya_08 0 1 0 0
+fr_plessé_b5 0 1 0 0
+ru_ivanovo_21 0 1 0 0
+us_brooklyn_ny 0 2 0 0
+us_waterbury_ct 0 1 0 0
+br_guarulhos_27 0 1 0 0
+us_indianapolis_in 0 2 0 0
+ru_moscow_48 0 3 0 0
+us_barstow_ca 0 46 0 0
+ro_galati_18 0 1 0 0
+au_melbourne_07 0 61 0 0
+END_PLUGIN_geoip_city_maxmind
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 480
+192.254.250.158 23 23 77290 20170316103244
+212.24.112.140 23 23 9591 20170324060740
+157.51.94.21 19 32 2205038 20170322074824
+62.210.70.183 19 19 1371572 20170325102442
+103.1.48.98 18 18 1022472 20170327042131
+137.97.7.116 18 102 9215129 20170310053212
+64.233.173.142 18 179 17457086 20170329225356
+182.65.231.135 16 160 18970219 20170321085112
+122.178.170.171 15 143 16270343 20170301030742
+72.79.54.220 14 22 818402 20170328190222
+169.56.71.36 1 1 72188 20170324175558
+124.104.35.35 0 1 278588 
+66.249.84.193 0 1 92841 
+36.72.110.115 1 1 72188 20170323190813
+66.102.8.10 0 10 701583 
+138.197.64.69 2 14 580650 20170316122709
+188.32.223.196 7 42 1550730 20170326085210
+222.186.190.89 1 1 72188 20170330153935
+171.61.224.142 7 71 6114227 20170330012003
+45.251.233.16 6 70 6078095 20170331040250
+117.218.238.229 10 73 5865876 20170320052212
+106.208.168.221 5 27 1764225 20170318013932
+103.208.144.106 5 49 4777326 20170330134943
+182.65.220.78 6 116 12386189 20170307111627
+173.252.90.248 0 1 57438 
+208.80.194.123 0 1 48008 
+66.102.6.10 1 1 72363 20170327043054
+66.249.85.176 0 9 568910 
+117.213.74.115 9 139 16424290 20170329071812
+52.87.86.158 1 1 72188 20170326173236
+8.37.235.152 7 86 6732117 20170301015015
+202.54.152.132 7 74 7729962 20170318025458
+54.211.2.193 3 3 143830 20170314002410
+179.176.126.97 1 1 72188 20170323141856
+181.44.99.157 1 1 72188 20170319152448
+196.52.43.56 1 1 72188 20170322202018
+66.249.85.156 0 1 3903 
+106.120.173.103 2 2 144374 20170311133946
+64.233.173.143 11 196 20202096 20170329225400
+23.247.72.98 1 1 72188 20170305110424
+23.247.72.35 1 1 72188 20170305142601
+12.129.82.125 3 3 152098 20170327213248
+91.108.73.165 1 1 11767 20170320233717
+31.178.185.75 0 1 56988 
+43.251.218.113 0 1 48502 
+157.51.0.65 8 139 16492361 20170330004639
+78.224.152.174 1 1 72188 20170321061034
+93.41.222.43 1 1 72188 20170302133719
+66.249.91.18 1 1 53 20170322002608
+157.50.1.164 7 61 6078911 20170306003627
+45.55.50.168 6 6 391291 20170313143933
+137.74.254.198 3 3 115420 20170321045142
+209.222.110.138 1 1 72188 20170331034644
+94.209.9.243 1 1 7722 20170324075537
+223.18.181.240 1 1 7722 20170327213145
+122.165.131.116 11 61 5435805 20170327085820
+83.110.223.41 6 70 6078095 20170326022619
+188.121.195.160 1 1 72188 20170323214735
+93.143.146.242 1 1 72188 20170323083124
+154.16.127.15 1 1 72188 20170317160551
+70.32.33.90 1 1 72188 20170321212527
+66.102.6.208 1 77 6152391 20170321030550
+8.37.232.79 6 52 4899849 20170323015958
+169.54.233.119 1 1 72188 20170308210628
+173.252.90.241 0 1 57438 
+59.72.109.47 2 2 79910 20170327094609
+54.242.149.37 1 1 72188 20170328072559
+66.249.93.141 0 3 195541 
+188.244.47.215 1 55 5269941 20170308104417
+157.55.39.7 0 5 84151 
+106.248.234.43 10 10 551111 20170325034918
+157.51.96.195 5 58 5488653 20170324023642
+157.50.5.114 0 9 568559 
+47.203.88.36 1 1 72188 20170315145128
+188.165.200.217 3 3 32543 20170317161333
+23.247.85.100 1 1 72188 20170325045104
+157.50.7.211 0 1 36868 
+66.249.85.158 0 3 350931 
+46.29.155.79 8 8 471201 20170327213353
+107.167.111.51 1 3 76212 20170322075056
+86.126.86.132 0 1 278588 
+109.63.168.219 7 38 1444899 20170304135742
+37.147.107.81 1 55 5269941 20170306085729
+122.165.29.251 5 56 5480364 20170320213624
+185.110.132.232 2 2 144374 20170330224504
+66.249.85.172 0 4 253364 
+177.135.90.138 1 1 183 20170326012731
+157.51.98.37 11 131 14725039 20170323000755
+157.50.4.124 0 4 542973 
+117.208.232.252 10 127 14638769 20170320035549
+182.74.147.66 1 1 72188 20170320073726
+5.188.211.24 1 1 60377 20170330215641
+81.0.43.54 0 1 210887 
+171.76.37.34 12 150 17301101 20170328082230
+157.55.39.203 0 6 399491 
+138.197.2.93 1 13 508462 20170315101323
+23.20.213.240 1 1 72188 20170325103414
+138.197.111.117 1 13 508462 20170314142357
+177.53.197.206 1 1 72188 20170322155410
+117.222.163.35 0 1 57438 
+64.233.172.145 0 24 3293476 
+180.253.82.249 1 1 72188 20170304030259
+97.123.164.161 0 1 278588 
+171.60.195.245 12 97 11492519 20170317045908
+174.127.133.52 2 2 75507 20170313233421
+93.157.11.83 0 1 50770 
+1.46.96.241 0 1 57438 
+104.128.144.131 1 1 72187 20170315200718
+69.58.178.59 6 6 391285 20170302015714
+203.171.210.19 5 80 9846934 20170321033348
+157.51.111.126 10 134 14770113 20170330005223
+174.127.133.47 1 5 282572 20170313230027
+106.51.252.222 0 1 110840 
+182.65.8.211 7 72 6153332 20170328053515
+45.76.7.102 1 1 72188 20170325163553
+62.101.231.66 1 1 72188 20170324185637
+27.62.83.15 1 9 303840 20170301073527
+114.4.82.139 0 1 57438 
+185.2.101.31 3 3 152258 20170324012832
+148.255.71.194 3 29 3433512 20170319151745
+195.34.204.126 2 2 23698 20170329103823
+123.114.201.152 1 1 72188 20170322134428
+54.202.48.212 3 3 107774 20170314142439
+90.216.203.101 0 1 210887 
+139.162.119.197 5 5 360940 20170330214320
+157.50.7.28 5 62 4774341 20170325024130
+138.197.111.48 1 13 508462 20170312215010
+109.163.234.8 1 1 72188 20170330233523
+50.30.32.186 1 1 72188 20170314010312
+124.43.71.40 1 1 11767 20170320233515
+139.162.124.167 8 8 323646 20170329112717
+104.148.75.106 1 1 72188 20170303125219
+138.197.111.142 6 6 391291 20170312094803
+38.100.21.68 5 11 567826 20170314045755
+94.186.96.49 1 1 72188 20170302040820
+112.79.181.86 1 21 767073 20170330074221
+174.127.133.50 0 1 36868 
+112.214.199.158 1 1 72188 20170326211658
+49.15.69.165 0 1 57438 
+27.62.172.130 6 70 6078095 20170307021710
+182.68.101.230 6 70 6078095 20170302235613
+138.197.111.123 1 13 508462 20170312001758
+122.166.159.101 6 60 7132231 20170324075942
+95.159.83.129 1 1 72188 20170314023259
+110.90.95.163 1 1 72188 20170330162216
+217.23.36.241 1 1 72188 20170302173407
+23.247.88.42 1 1 72188 20170307002807
+59.99.82.196 7 71 6114227 20170321054935
+106.208.7.49 0 3 56709 
+62.212.73.49 2 2 144376 20170319202411
+165.225.104.81 7 71 6150283 20170330140837
+64.233.172.141 0 11 1443722 
+49.207.176.206 0 5 508845 
+176.9.50.43 1 1 72188 20170328073828
+157.50.7.226 1 20 3499069 20170306003714
+54.218.10.195 1 1 72188 20170327221332
+104.148.75.4 1 1 72188 20170305223957
+193.194.132.76 9 81 9537825 20170310054604
+66.249.84.204 0 1 354039 
+41.36.199.117 1 1 72188 20170318123953
+49.206.126.26 5 56 5480364 20170323034010
+157.50.5.110 0 2 102700 
+106.208.190.200 7 137 16237206 20170325043414
+187.106.81.17 1 1 47362 20170312142418
+89.108.143.217 0 1 278588 
+73.138.158.214 0 1 278588 
+41.216.133.6 0 1 148293 
+89.133.55.203 1 1 72188 20170320102516
+192.99.67.14 6 82 3243178 20170301151223
+203.106.158.255 1 1 72188 20170314171048
+124.124.203.101 10 74 6258679 20170321083322
+213.208.184.50 0 1 278588 
+27.151.29.18 1 1 72188 20170328025424
+103.196.11.82 7 71 6114227 20170308023828
+64.233.173.135 4 70 8518093 20170325022808
+47.29.131.157 0 2 149829 
+203.171.211.144 3 63 6722010 20170315083842
+107.179.99.201 1 1 72829 20170314095452
+138.197.111.115 1 13 508462 20170313173643
+91.103.26.186 7 7 339706 20170325084334
+117.208.236.218 5 56 5480364 20170324095856
+92.99.164.213 1 1 72188 20170321013119
+117.193.46.109 7 45 4764976 20170307062633
+189.78.224.108 1 1 72188 20170331125830
+60.1.127.77 1 1 11408 20170328035641
+71.232.88.249 0 1 985493 
+203.151.232.12 1 1 72187 20170328125614
+113.34.75.53 1 1 72188 20170331194646
+42.111.192.117 1 6 245997 20170318075931
+103.219.206.173 10 137 16015946 20170322074247
+84.41.106.189 1 1 72188 20170307200337
+112.208.200.185 1 1 72188 20170331092027
+176.119.226.123 1 1 72188 20170330214639
+23.247.88.10 1 1 72188 20170330034633
+178.137.83.166 1 1 72188 20170328203021
+113.252.159.5 1 1 7882 20170320095828
+168.1.128.37 1 1 72188 20170315185045
+77.222.102.124 1 1 72188 20170322194758
+117.201.206.239 1 1 72188 20170320214432
+157.50.7.18 7 70 6087971 20170321053435
+157.51.27.199 5 26 1743135 20170324121230
+52.221.217.165 1 1 72188 20170305021215
+128.227.38.150 0 1 278588 
+117.245.5.140 6 70 6078095 20170331180452
+40.77.171.45 0 1 1472314 
+66.102.6.204 4 72 8764485 20170321024355
+117.215.112.230 0 2 173303 
+64.233.173.136 8 88 9051909 20170325022808
+203.9.78.16 7 130 14259232 20170310053916
+66.102.8.14 0 10 2366066 
+58.176.46.248 1 1 7882 20170321102148
+88.2.229.55 0 1 48008 
+192.200.195.190 1 1 72188 20170329094305
+157.50.3.88 0 1 34480 
+118.100.243.244 1 1 72188 20170310051551
+142.4.210.208 10 10 551111 20170323231209
+115.254.30.249 13 107 13544628 20170321061140
+177.157.146.225 1 1 72188 20170322142613
+158.69.225.33 8 9 536667 20170302105543
+47.203.93.38 1 1 72188 20170309112218
+219.216.78.72 1 1 72188 20170313035328
+66.235.90.192 1 1 72188 20170326194034
+103.213.194.76 14 115 10487694 20170316055958
+157.51.84.106 0 9 801886 
+45.32.129.1 1 1 72188 20170307025207
+51.15.56.110 1 1 72188 20170329172702
+201.149.111.3 2 2 80070 20170322174743
+141.212.122.32 1 1 72187 20170324132924
+117.212.107.179 11 148 16948766 20170325121054
+66.249.84.197 0 3 206817 
+193.201.225.109 1 1 72188 20170329212029
+107.153.65.64 1 1 36132 20170314091456
+180.151.63.6 0 1 71673 
+198.20.69.74 1 1 72188 20170319082447
+107.167.106.195 2 2 23740 20170314101135
+173.252.123.135 0 1 57438 
+180.215.123.62 6 116 12386189 20170319135446
+115.159.97.73 1 1 72188 20170326154302
+157.50.5.143 5 62 7704957 20170322065528
+66.249.85.160 0 2 245327 
+206.214.93.157 1 1 13336 20170314044845
+212.142.90.98 0 1 278588 
+49.206.119.88 0 7 570843 
+94.65.159.240 0 1 278588 
+81.5.96.99 0 1 278588 
+183.83.52.140 6 57 5491543 20170330071002
+54.152.31.66 1 1 72188 20170323030719
+5.107.27.9 0 3 195541 
+66.249.85.174 0 2 447217 
+122.164.117.142 6 117 12386865 20170306233014
+115.182.15.117 1 1 72187 20170327135415
+23.247.27.4 1 1 72188 20170321090355
+14.139.190.14 5 56 5480364 20170316072916
+23.247.72.18 2 2 144376 20170329101928
+106.208.128.19 6 36 2812850 20170306100432
+203.196.190.45 5 56 5480364 20170315083956
+66.102.7.251 0 7 742485 
+157.50.3.1 1 7 1661457 20170321053644
+191.184.191.160 1 1 26198 20170329195423
+54.213.252.83 1 1 72188 20170317025710
+66.249.83.12 0 9 1900336 
+58.27.217.75 3 3 35465 20170318170836
+85.201.188.76 1 1 72188 20170312165127
+36.110.147.66 2 2 83954 20170322071536
+52.174.52.33 1 1 68967 20170303223847
+64.233.173.134 4 75 9132510 20170325022940
+157.50.4.42 2 33 2869207 20170314115353
+91.197.234.3 1 1 72187 20170328134604
+103.220.210.8 2 2 24966 20170320032431
+111.93.127.122 1 1 72188 20170329164207
+188.44.25.6 1 1 72188 20170330114042
+179.180.6.199 1 1 72188 20170327222845
+157.49.6.68 4 16 2711527 20170306100009
+109.98.230.243 1 1 72188 20170320090449
+50.82.45.56 1 1 72188 20170326202817
+50.233.42.50 0 1 210887 
+178.162.216.1 8 8 400403 20170322093406
+213.183.56.223 1 1 9968 20170320224448
+202.91.65.10 8 129 12962938 20170309073615
+192.126.237.97 2 2 23698 20170319120248
+66.102.8.12 0 7 899440 
+185.146.171.197 1 1 72188 20170329001826
+93.56.12.164 1 1 72188 20170324145617
+157.50.0.52 4 36 2926350 20170314115320
+104.207.150.177 2 2 144376 20170324021814
+103.238.229.86 6 57 5552552 20170319130302
+162.243.202.25 10 10 551111 20170325134627
+168.235.83.67 1 1 72188 20170319215738
+183.129.160.229 1 1 72188 20170321083358
+190.214.0.250 1 1 72188 20170317005231
+174.127.133.51 1 6 206652 20170313225313
+112.215.172.131 0 1 57438 
+169.56.71.61 1 1 72188 20170306163944
+24.247.82.131 1 1 72188 20170323185841
+122.174.101.200 0 1 210887 
+122.142.77.84 3 3 168075 20170328021144
+174.127.188.37 1 1 72188 20170313182753
+174.127.133.49 1 5 249115 20170313230217
+208.80.194.120 0 1 676 
+139.162.108.53 7 7 505316 20170325184023
+101.24.118.150 1 1 11408 20170328084443
+197.250.228.230 1 1 72188 20170306155109
+104.148.75.18 1 1 72732 20170331113841
+101.226.33.202 1 1 7722 20170328071143
+103.213.33.4 7 71 6114227 20170309001928
+66.249.84.42 0 1 65172 
+174.127.133.21 1 1 72188 20170313192621
+54.226.59.215 1 1 36132 20170328155908
+157.50.2.14 0 2 102700 
+54.166.176.117 2 2 107698 20170314004514
+203.27.235.106 4 49 7671645 20170321033154
+104.148.75.99 1 1 72188 20170306010921
+169.54.244.93 1 1 72188 20170322194705
+66.102.6.206 2 87 7651549 20170315105259
+101.222.226.84 10 152 18536658 20170321014350
+86.212.39.169 9 136 15944434 20170316095948
+103.52.255.207 0 1 57438 
+157.50.4.114 1 7 255885 20170310112726
+49.150.246.23 1 1 72188 20170310015534
+165.117.232.82 2 2 17748 20170316201105
+162.211.5.66 0 1 210887 
+117.62.143.54 1 1 11408 20170324102434
+41.227.235.110 1 1 72188 20170314041419
+174.114.151.76 0 1 210887 
+103.219.205.162 8 89 8502412 20170310030016
+157.50.3.28 0 3 100392 
+46.241.7.137 7 41 1496442 20170330034936
+114.112.90.54 1 1 21794 20170312090900
+175.103.36.50 0 1 210887 
+168.235.202.196 6 49 5070998 20170325003626
+199.85.125.5 6 72 6086384 20170330143323
+177.205.228.47 0 1 210887 
+83.49.255.50 1 1 72188 20170329115341
+112.198.83.220 0 1 278588 
+202.168.156.162 11 61 5373405 20170323071916
+94.96.132.65 0 1 92841 
+188.26.89.37 0 1 278588 
+94.215.81.78 1 1 72188 20170319165851
+68.64.160.14 1 1 72188 20170327075249
+54.187.114.165 1 1 72188 20170309064336
+42.111.173.173 7 61 6371382 20170331044840
+168.235.201.194 7 64 5822855 20170320140336
+117.193.41.149 8 79 9155583 20170307041658
+106.208.189.208 12 60 4851023 20170323090730
+88.99.144.66 1 1 72187 20170313074146
+185.110.132.231 5 5 360935 20170324155425
+149.202.175.151 7 31 1151879 20170323202821
+138.197.7.50 1 13 508462 20170315154650
+157.50.0.215 9 69 7940570 20170322065841
+5.188.211.78 1 1 72188 20170302141451
+46.227.142.31 1 1 72188 20170301105148
+192.249.3.186 0 1 278588 
+202.28.79.190 1 1 72188 20170329074711
+122.102.118.130 8 105 14667537 20170316034913
+157.50.2.186 4 18 2249580 20170314051331
+191.254.18.216 1 1 72188 20170321003216
+139.162.114.70 4 4 288752 20170328110332
+59.120.236.16 1 1 3 20170323143004
+178.59.255.143 1 1 72188 20170315072715
+49.147.135.199 1 1 72188 20170307015718
+203.116.117.146 0 1 278588 
+117.207.116.86 7 110 11602472 20170329012903
+171.60.227.35 9 68 6312358 20170328032612
+83.239.58.162 10 10 551111 20170325012313
+52.58.71.234 1 1 72187 20170327172250
+168.1.128.76 1 1 72188 20170307143027
+40.77.167.20 0 1 6841 
+66.249.93.143 0 1 1296073 
+173.252.123.145 0 1 57438 
+196.210.152.37 1 1 72188 20170329133604
+169.56.71.58 1 1 72188 20170327170322
+77.246.156.146 1 1 9358 20170313123733
+54.191.97.152 1 1 72188 20170309193725
+168.1.128.61 1 1 72188 20170327183752
+66.220.152.184 0 1 57438 
+103.51.27.58 10 74 6330791 20170320161446
+43.254.162.230 9 72 5829744 20170310024940
+113.225.209.160 1 1 72188 20170327133858
+66.102.7.233 0 2 15643 
+50.73.100.10 0 1 289768 
+117.254.100.29 7 121 12364687 20170306072510
+64.233.173.144 12 190 17619848 20170329225400
+113.255.49.49 1 1 7722 20170326114650
+117.216.37.76 14 71 5632614 20170315035349
+49.206.122.195 7 82 11091933 20170302113324
+157.50.3.78 6 89 9792482 20170322235132
+162.217.178.10 0 1 210887 
+199.192.240.226 3 3 152098 20170325110955
+199.91.135.164 2 2 139652 20170310053735
+196.52.43.55 1 1 72188 20170301211357
+157.50.6.109 6 78 7655719 20170321001237
+96.49.192.52 1 1 72188 20170329000948
+5.188.211.68 1 1 30565 20170303040818
+158.181.159.5 1 1 7722 20170326093040
+54.193.63.117 1 1 72188 20170330200145
+104.196.21.40 1 1 72187 20170301175946
+117.21.234.96 1 1 7722 20170325061225
+117.208.234.81 9 134 16697744 20170321022333
+66.249.83.10 0 11 747873 
+31.210.102.114 3 3 216561 20170326000446
+223.30.225.230 1 1 72188 20170328021144
+151.67.65.22 1 1 72188 20170326064732
+14.102.43.18 13 130 8947713 20170320095326
+103.54.222.203 9 83 10807450 20170324070125
+103.215.227.35 6 69 5841116 20170303064519
+124.132.151.2 1 1 72188 20170329225308
+138.197.111.171 6 6 391289 20170314202838
+182.65.108.206 7 120 14038056 20170314074733
+101.226.51.229 1 1 7722 20170328022612
+180.183.199.104 0 1 278588 
+95.211.138.129 1 1 72188 20170329175705
+106.51.234.222 1 1 72188 20170323021619
+66.249.83.14 0 12 1837197 
+78.167.246.0 1 1 72188 20170319152259
+193.53.83.26 2 2 23698 20170319231533
+23.247.88.26 1 1 72188 20170317060900
+179.209.245.53 1 1 72187 20170304192223
+2.216.241.164 0 1 210887 
+117.213.35.77 9 73 6186491 20170308034145
+157.55.39.14 0 2 7109 
+196.32.110.161 1 1 72188 20170323075623
+66.102.7.250 0 7 408554 
+111.88.25.63 1 1 72188 20170306142616
+60.191.38.77 4 4 288752 20170315191105
+103.246.38.196 7 7 442604 20170310053914
+134.249.159.113 1 1 72188 20170302055711
+122.166.228.207 10 74 6208035 20170313024512
+95.24.233.139 1 55 5269941 20170310123536
+157.50.3.167 0 40 4738759 
+43.231.58.179 1 1 72188 20170306134105
+5.134.49.125 1 1 72188 20170320144858
+52.33.171.222 1 2 79709 20170321084631
+188.142.241.61 0 1 210887 
+169.54.233.123 3 3 216564 20170329164022
+195.154.108.119 1 1 72188 20170301084811
+193.63.58.83 3 3 216561 20170321043800
+23.247.88.12 1 1 72188 20170329100609
+154.16.55.71 3 3 35465 20170320050948
+109.163.234.5 1 1 72188 20170309170722
+178.137.83.79 1 1 72188 20170305023747
+175.140.189.131 0 1 278588 
+149.202.93.127 1 1 72188 20170304035557
+157.50.6.190 7 88 10370187 20170314051406
+54.86.200.135 1 1 72188 20170317145527
+64.233.172.143 1 11 821042 20170329225339
+207.154.208.170 1 1 72188 20170301054904
+89.47.19.172 1 1 72188 20170307190314
+107.158.141.99 1 1 11767 20170318125437
+42.111.207.191 10 138 16464234 20170314071534
+117.218.118.232 7 65 5628420 20170324004058
+23.94.229.42 1 1 72188 20170326073329
+157.52.165.23 1 1 72188 20170313190316
+157.50.3.84 0 4 221177 
+94.177.190.67 1 1 7882 20170320073646
+116.50.85.115 10 138 16326676 20170308021902
+104.148.75.26 1 1 72188 20170308112649
+125.164.2.13 0 1 278588 
+121.135.146.184 10 10 551431 20170321073723
+66.249.84.195 0 1 985493 
+157.50.1.239 1 10 1312043 20170325024050
+91.197.234.102 1 1 7722 20170325163923
+139.129.207.104 1 1 72188 20170326153934
+93.115.95.207 1 1 72188 20170314002701
+176.31.64.186 4 4 180584 20170319040950
+110.224.132.230 1 1 72188 20170319021528
+169.56.71.39 1 1 72188 20170321210500
+176.222.38.111 1 1 72188 20170323212047
+124.236.175.26 1 1 11408 20170327224759
+42.111.140.46 14 60 6128285 20170312074541
+175.152.31.190 1 1 72188 20170322072234
+52.55.76.128 1 1 72188 20170303011813
+149.170.253.169 0 1 278588 
+98.23.109.38 4 4 224446 20170321045120
+113.225.222.31 1 1 72188 20170315142803
+5.62.26.52 3 3 35465 20170320163052
+157.50.1.158 1 11 948943 20170314033704
+89.25.47.91 0 2 152400 
+66.102.7.249 0 8 818995 
+174.127.133.48 0 1 2081 
+14.139.183.121 1 1 72188 20170320000508
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20170301 48 527 42668448 12
+20170302 44 317 32875943 15
+20170303 14 80 6705558 9
+20170304 11 46 2390261 5
+20170305 6 11 1418721 6
+20170306 40 435 45979941 15
+20170307 35 335 36153294 12
+20170308 30 351 35329051 7
+20170309 21 206 19510293 8
+20170310 66 550 53798613 14
+20170311 3 7 447782 3
+20170312 26 99 8255322 8
+20170313 30 123 8811281 15
+20170314 67 496 52839771 27
+20170315 41 481 49768208 17
+20170316 63 454 47770921 9
+20170317 19 105 12087287 8
+20170318 19 114 9989230 7
+20170319 29 217 22316359 15
+20170320 74 549 48363061 21
+20170321 125 1293 142166808 31
+20170322 79 423 45830744 22
+20170323 72 413 37850643 17
+20170324 81 396 37478500 20
+20170325 101 558 58406211 20
+20170326 26 128 8411083 15
+20170327 52 175 16919876 20
+20170328 54 375 37687886 21
+20170329 47 448 50248353 24
+20170330 67 666 62927493 19
+20170331 24 210 19344470 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 16
+2mn-5mn 27
+15mn-30mn 2
+30s-2mn 50
+0s-30s 348
+30mn-1h 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 29
+/ 417 29612493 351 245
+/contente.php 119 768667 54 39
+/fonts/Rounded%20Elegance.ttf 110 17584380 6 12
+/contact.php 97 3504797 8 52
+/fonts/helvetica/Helvetica.woff2 93 1103760 7 3
+/fonts/pacifico/Pacifico.woff2 91 2203284 2 16
+/fonts/glyphicons-halflings-regular.woff2 90 1568436 2 2
+/domestic.php 81 4890698 8 22
+/international.php 72 8272856 2 21
+/about_us.php 49 1739984 3 10
+/fonts/helvetica/Helvetica.woff 13 191932 0 1
+/js/ 1 3319 0 1
+/fonts/helvetica/Helvetica-Bold.eot 6 172920 0 0
+/googlef32d9fa0f64cf5c4.html 1 53 1 1
+/fonts/helvetica/Helvetica-Bold.woff2 16 482432 0 0
+http://httpheader.net/ 2 144376 2 2
+/fonts/helvetica/Helvetica.ttf 1 27168 0 0
+/fonts/glyphicons-halflings-regular.woff 15 351360 0 0
+/fonts/helvetica/Helvetica-Light.woff2 21 234780 0 1
+/fonts/pacifico/Pacifico.eot 6 262920 0 0
+/fonts/glyphicons-halflings-regular.ttf 1 45404 0 0
+/index.php 44 3176267 2 9
+/fonts/helvetica/Helvetica.eot 6 142944 0 0
+/fonts/helvetica/Helvetica-Bold.woff 9 310392 0 1
+/fonts/glyphicons-halflings-regular.eot 6 120762 0 0
+/fonts/pacifico/Pacifico.woff 16 1691136 0 4
+/fonts/helvetica/Helvetica-Light.woff 17 236572 0 2
+/fonts/helvetica/Helvetica-Light.eot 6 133800 0 0
+/mail.php 8 368 2 6
+END_SIDER
